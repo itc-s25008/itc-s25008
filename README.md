@@ -30,6 +30,41 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 🎨 プロジェクト・作品紹介
+
+### DRILL QUEST
+
+| 項目 | 詳細 |
+| --- | --- |
+| 開発期間 | 14日(1日3時間) |
+| 開発形態 | グループ開発 |
+| 開発の役割 | フロントエンド |
+| フレームワーク | Next.js |
+| API | Prisma, Auth.js |
+| データベース | PostgreSQL (Aiven, Neon)|
+| エディタ | Visual Studio Code |
+
+#### 概要
+
+問題を検索、作成、公開ができるWeb学習アプリケーション。自分に合わせた問題の作成、復習できることを目指した。
+
+#### 実装内容
+- ログイン機能：ユーザー認証、セッション管理
+- 問題の検索、作成、公開
+
+#### 学び
+
+- チームでの役割分担と連携（Git/GitHubを活用）により、効率的な開発フローを確立
+- AIを活用してコードの生成やデバッグを効率化し、開発スピードを向上
+- 期間がとても短く最低限の機能しか作ることができなかった。  
+
+#### 今後の展開
+
+グループ機能や通知の機能の追加
+
+#### リンク
+- GitHub:https://github.com/itc-s24004/pbl-team-a
+- デモサイト:[https://drill-quest-blond.vercel.app](https://docs.google.com/presentation/d/1UT12LpILUjef4CsmPPhayofSklnbQRtXbpdsFDZ6yLg/edit?usp=sharing)
 <!--
 **itc-s25008/itc-s25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
