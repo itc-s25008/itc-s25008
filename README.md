@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+## 👋 はじめまして!
+
+比嘉 智希です
+専門学校ITカレッジ沖縄 ITスペシャリスト科　情報工学コースに在籍しています。(28卒予定)
+ 
+</div>
+
 
 <!--
 **itc-s25008/itc-s25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
