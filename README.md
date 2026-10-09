@@ -63,7 +63,7 @@
 グループ機能や通知の機能の追加
 
 #### リンク
-- GitHub：https://github.com/itc-s24004/pbl-team-a
+- GitHub：https://github.com/itc-s25008/drill-quest)
 - デモサイト：https://drill-quest-blond.vercel.app
 
 ### 📫 連絡先
