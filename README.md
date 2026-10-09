@@ -63,8 +63,11 @@
 グループ機能や通知の機能の追加
 
 #### リンク
-- GitHub:https://github.com/itc-s24004/pbl-team-a
-- デモサイト:[https://drill-quest-blond.vercel.app](https://docs.google.com/presentation/d/1UT12LpILUjef4CsmPPhayofSklnbQRtXbpdsFDZ6yLg/edit?usp=sharing)
+- GitHub：https://github.com/itc-s24004/pbl-team-a
+- デモサイト：https://drill-quest-blond.vercel.app
+
+### 📫 連絡先
+メールアドレス：s25008@std.it-college.ac.jp
 <!--
 **itc-s25008/itc-s25008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
